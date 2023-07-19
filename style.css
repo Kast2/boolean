@@ -1,0 +1,78 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center -50px;
+}
+
+.container{
+    width: 1000px;
+    margin: auto;
+    margin-top: 25px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+    padding: 90px;
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.logo-text{
+    text-align: center;
+    margin: 3px;
+    color: #00DD00;
+}
+
+.buttons {
+    text-align: center;
+    background-color: #00DD00;
+    padding: 10px;
+}
+
+.contenitore{
+    margin-top: 25px;
+}
+
+.nomepattino{
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+}
+
+.indirizzo{
+    margin-top: 0px;
+    color: white;
+}
+
+.status{
+    margin-top: -10px;
+    color: white;
+}
+
+.alto{
+    width: 600px;
+    height: 30px;
+    background-color: #00DD00;
+    border-radius: 5px;
+    margin-top: -10px;
+}
+
+.medio{
+    width: 300px;
+    height: 30px;
+    background-color: #F5B453;
+    border-radius: 5px;
+    margin-top: -10px;
+}
+
+.basso{
+    width: 150px;
+    height: 30px;
+    background-color: #BE4141;
+    border-radius: 5px;
+    margin-top: -10px;
+}
